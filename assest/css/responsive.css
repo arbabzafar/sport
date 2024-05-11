@@ -1,0 +1,32 @@
+@media only screen and (max-width:575px) {
+  .big-heading{
+    font-size: 29px;
+  }
+  .item{
+    padding: 5px 10px;
+    border-radius: 20px;
+}
+.owl-carousel .owl-item img {
+    width: 25%;
+}
+.live-total {
+    margin-top: 21px;
+}
+.date {
+    justify-content: center;
+    margin-top: 25px;
+}
+.time-drop .form-select{
+    width: 70% !important;
+}
+}
+@media only screen and (max-width:400px){
+    .owl-carousel .owl-item span {
+        font-size: 13px;
+    }
+    .team-name{
+        font-size: 10px;
+        text-align: center;
+    }
+    
+}
